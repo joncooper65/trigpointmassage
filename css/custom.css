@@ -1,0 +1,15 @@
+.container.jumbo{
+	background-image: url('../img/trig.jpg');
+	background-size: 100%;
+	background-position: 0% 42%;
+	background-clip: initial;
+}
+
+.jumbo > h1 {
+	color: #fff;
+	/*font-size: 36px;*/
+}
+
+.jumbo > p {
+	color: #fff;
+}
