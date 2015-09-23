@@ -1,3 +1,7 @@
+body{
+	/*background-image: url('../img/runner.png');*/
+}
+
 .container.jumbo{
 	background-image: url('../img/trig.jpg');
 	background-size: 100%;
